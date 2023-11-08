@@ -10,3 +10,8 @@ So we have done a brief analysis using a VAR(Vector autoregressive model )  to f
 
 Data set used by us is the DOW -JONES index from 1992 to 2022 and the same time period for FED rates . Dataset taken is monthly
 
+# RESULT 
+
+<img width="452" alt="image" src="https://github.com/Harsh055Raj/FEDVSMARKET/assets/95955195/1d3652e8-5e96-4e7a-a40b-af31d24c4ef9">
+
+
